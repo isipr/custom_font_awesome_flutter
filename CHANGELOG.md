@@ -1,3 +1,38 @@
+## 8.11.0
+  * Add support for font awesome 6's thin icons
+
+## 8.10.2
+  * Fix missing keys in FaDuotoneIcon
+  * Fix icon tree shaking build error for duotone icons
+
+## 8.10.1
+  * Update license file with MIT header
+  * Update readme links
+
+## 8.10.0
+  * Fix #119: Inverted colors for duotone icons
+  * Fix #122: Build failure due to missing glyphs in web fonts
+  * Upgrade to Font Awesome icons 5.15.1
+
+## 8.9.0
+  * Upgrade to Font Awesome icons 5.15
+
+## 8.8.1
+  * Fix icon_data.dart not being accessible
+
+## 8.8.0
+  * Upgrade to Font Awesome Icons 5.13
+
+## 8.7.0
+
+  * Add `FaIcon` widget for Font Awesome Icons
+  * Update `README` with FAQ
+
+## 8.6.0
+  * Move package to FlutterCommunity
+  * Upgrade to Font Awesome Icons 5.12.1
+  * Directions to support pro icons if you've purchased them (thanks @michaelspiss!)
+
 ## 8.5.0
   * Upgrade to Font Awesome Icons 5.9
 
