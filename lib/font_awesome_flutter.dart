@@ -9284,7 +9284,6 @@ class FontAwesomeIcons {
     'solidAddressCard': IconDataSolid(0xf2bb),
     'adjust': IconDataSolid(0xf042),
     'adn': IconDataBrands(0xf170),
-    'adobe': IconDataBrands(0xf778),
     'adversal': IconDataBrands(0xf36a),
     'affiliatetheme': IconDataBrands(0xf36b),
     'airFreshener': IconDataSolid(0xf5d0),
