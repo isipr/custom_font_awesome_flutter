@@ -1,3 +1,42 @@
+## 10.1.0
+* Upgrade to Font Awesome 6.1.1
+* Perform automatic update check on configurator run
+
+## 10.0.0
+* Upgrade to Font Awesome icons 6.1.0
+* Update the configurator to work with version 6
+* Add alias support
+  (Aliases may be old names of renamed icons.
+  Since it is unclear if they are about to stay,
+  aliases are marked as @Deprecated with a message containing the new icon name.)
+* Update FaIcon with the latest changes to flutter's default Icon
+* DEPRECATE duotone icon support for pro users
+* Fix linter warnings - thanks to @gslender!
+
+## 9.2.0
+* Upgrade to Font Awesome icons 5.15.4
+* Equalize windows and linux tool scripts
+* Reworked updater tool into a full-fledged configurator
+  * Added support for ignoring styles
+  * Added optional support for dynamic icon retrieval by name (thanks to @Mythar)
+  * Fonts get enabled/disabled automatically based on availability and exclude list
+
+## 9.1.0
+* Add support for fa6's 360-degrees icon
+* Fix #154 FaDuotoneIcon explicitly requires IconDataDuotone
+* Use `dart format` instead of deprecated `dartfmt` in the updater
+* Automatically enable duotone icons in the example if possible
+* Upgrade to Font Awesome icons 5.15.3
+
+Thanks to @amkuchta for his work and input
+
+## 9.0.0
+* Add support for null-safety
+
+## 8.12.0
+* Upgrade to Font Awesome icons 5.15.2
+* Add support for font awesome 6's number icons
+
 ## 8.11.0
   * Add support for font awesome 6's thin icons
 
